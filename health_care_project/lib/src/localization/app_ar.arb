@@ -1,0 +1,81 @@
+{
+  "home": "الرئيسية",
+  "latestAnnouncement": "أحدث إعلان",
+  "todaysMedications": "الأدوية اليومية",
+  "friendsInvitation": "دعوات الصداقة",
+  "somethingWentWrong": "حدث خطأ ما",
+  "noAnnouncementsYet": "لا يوجد إعلانات حتى الآن",
+  "showMore" : "عرض المزيد",
+  "noInvitationsYet" : "لا يوجد دعوات حتى الآن",
+  "noMedicancesYet" : "لا يوجد أدوية حتى الآن",
+  "noMedicancesForYoday" : "لا يوجد أدوية لهذا اليوم",
+  "showAll" : "عرض الكل",
+  "login" : "تسجيل الدخول",
+  "profile" : "الملف الشخصي",
+  "announcements" : "الإعلانات",
+  "medicances" : "الأدوية",
+  "friends" : "الأصدقاء",
+  "share" : "مشاركة",
+  "logout" : "تسجيل الخروج",
+
+  "yourAvatarUpdatedSuccessfully" : "تم تحديث الصورة الشخصية بنجاح",
+  "name": "الاسم",
+  "weight": "الوزن",
+  "height": "الطول",
+  "bloodType": "فصيلة الدم",
+  "gender": "الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "profileUpdatedSuccessfully": "تم تحديث الملف الشخصي بنجاح",
+  "save": "حفظ",
+
+
+  "addAnnouncement" : "إضافة إعلان",
+  "title" : "العنوان",
+  "content" : "المحتوى",
+  "cancel" : "إلغاء",
+  "add" : "إضافة",
+  "delete" : "حذف",
+  
+  "inviteFriend" : "دعوة صديق",
+  "email" : "البريد الإلكتروني",
+  "invite" : "دعوة",
+  "noFriendsYet" : "لا يوجد أصدقاء حتى الآن",
+  "accept" : "قبول",
+  "reject" : "رفض",
+
+  "settings" : "الإعدادات",
+  "theme" : "المظهر",
+  "systemTheme" : "حسب النظام",
+  "lightTheme" : "نسق النهار",
+  "darkTheme" : "نسق الليل",
+  "language" : "اللغة",
+  "english" : "الإنجليزية",
+  "arabic" : "العربية",
+
+  "sunday" : "الأحد",
+  "monday" : "الإثنين",
+  "tuesday" : "الثلاثاء",
+  "wednesday" : "الأربعاء",
+  "thursday" : "الخميس",
+  "friday" : "الجمعة",
+  "saturday" : "السبت",
+
+  "frequency" : "التكرار",
+  "onceADay" : "مرة واحدة في اليوم",
+  "twiceADay" : "مرتين في اليوم",
+  "threeTimesADay" : "ثلاث مرات في اليوم",
+  "addMedicance" : "إضافة دواء",
+  "image": "الصورة",
+  "time": "الوقت",
+
+  "password" : "كلمة المرور",
+  "loginFailedPleaseTryAgain" : "فشل تسجيل الدخول، يرجى المحاولة مرة أخرى",
+  "register" : "تسجيل",
+
+  "registrationFailedPleaseTryAgain" : "فشل التسجيل، يرجى المحاولة مرة أخرى",
+
+  "timeToTakeYourMedicine" : "حان وقت تناول الدواء"
+
+
+}

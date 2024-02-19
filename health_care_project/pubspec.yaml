@@ -1,0 +1,54 @@
+name: health_care
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  alarm: 0.0.6
+  intl: 0.17.0
+  lottie: 2.2.0
+  firebase_core: 2.4.1
+  firebase_auth: 4.2.5
+  cloud_firestore: 4.3.1
+  firebase_storage: 11.0.10
+  share_plus: 6.3.0
+  image_picker: 0.8.6+1
+  shared_preferences: 2.0.17
+  flutter_animate: 3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 2.0.1
+  flutter_launcher_icons: 0.11.0
+
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/
+    - assets/animation/
+    - assets/sounds/
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/images/icon.png"
+
+  web:
+    generate: false
+  windows:
+    generate: false
+  macos:
+    generate: false
